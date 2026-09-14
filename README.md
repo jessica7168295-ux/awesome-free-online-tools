@@ -61,6 +61,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
 - **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
 - **[Cut My Image](https://cutmyimage.com/)** — Split a picture into columns, rows or a grid in the browser and download the pieces one by one or as a ZIP.
+
 ## PDF & files
 
 - **[PDF24 Tools](https://tools.pdf24.org)** — Free suite for merging, splitting, converting and compressing PDFs.
